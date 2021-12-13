@@ -1,2 +1,2 @@
 # coursera-bayesian-methods
-Coursera Baes methods refresher - my solutions
+Coursera Bayes methods refresher - my solutions
